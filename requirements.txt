@@ -1,0 +1,5 @@
+dotenv
+langgraph
+langchain-google-genai==4.4.0
+langchain-openrouter
+langchain
